@@ -17,9 +17,7 @@
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visual-studio&logoColor=white&color=6aa6f8)
 
 
-## 👨🏻‍💻 Languages Rate
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftherdogann&layout=compact&langs_count=8&theme=buefy&hide_border=true" />
 
 
 
